@@ -1,0 +1,222 @@
+https://www.amazon.com/SweetGourmet-Frutti-Gummy-Peach-Penguins/dp/B00318E4CS Time : 17:24:25.947632 Code : 503 RankAtCrawl: 0.1 FinalRank : 0.3000000000000006
+https://www.amazon.com/Frutti-Gummy-Peach-Penguins-2-2/dp/B005UULUL8 Time : 17:24:26.148615 Code : 200 Size : 493452 RankAtCrawl: 0.29999999999999993 FinalRank : 0.3000000000000006
+https://www.amazon.com/stream/ref=nav_upnav_LargeImage_C_Detail Time : 17:24:27.623384 Code : 200 Size : 532529 RankAtCrawl: 0.30303571428571435 FinalRank : 0.30303571428571485
+https://www.amazon.com/gp/navigation/redirector.html?ie=UTF8&associationHandle=usflex%C2%A4tPageURL=https://www.amazon.com/WEB-INF/views/stream-layout.jsp?_encoding=UTF8%26ref_=nav_ya_signin&pageType=Airstream&switchAccount=&yshURL=https://www.amazon.com/gp/yourstore/home?ie=UTF8%26ref_=nav_ya_signin Time : 17:24:28.057614 Code : 404 RankAtCrawl: 0.3041961405529955 FinalRank : 0.304196140552996
+https://www.amazon.com/stream/mix/ref=strm_theme_MY%20MIX Time : 17:24:28.688069 Code : 200 Size : 464264 RankAtCrawl: 0.3041961405529955 FinalRank : 0.304196140552996
+https://www.amazon.com/gp/navigation/redirector.html?ie=UTF8&associationHandle=usflex%C2%A4tPageURL=https://www.amazon.com/WEB-INF/views/newforyou-layout.jsp?_encoding=UTF8%26ref_=nav_ya_signin&pageType=Airstream&switchAccount=&yshURL=https://www.amazon.com/gp/yourstore/home?ie=UTF8%26ref_=nav_ya_signin Time : 17:24:29.203205 Code : 404 RankAtCrawl: 0.43106671947004616 FinalRank : 0.4310667194700467
+https://www.amazon.com/stream/saves/ref=strm_theme_saves Time : 17:24:29.381883 Code : 200 Size : 228990 RankAtCrawl: 0.30419614055299543 FinalRank : 0.304196140552996
+https://www.amazon.com/stream/saves/items/ref=strm_saves_items Time : 17:24:29.957854 Code : 200 Size : 229081 RankAtCrawl: 0.43106671947004616 FinalRank : 0.4310667194700467
+https://www.amazon.com/stream/2ad85be4-a868-4c09-be6f-caa113ce00b3/ref=strm_theme_fun Time : 17:24:32.245573 Code : 200 Size : 532416 RankAtCrawl: 0.30419614055299543 FinalRank : 0.304196140552996
+https://www.amazon.com/stream/361cd1ca-406f-45b5-a970-b2820f56eb75/ref=strm_theme_tees Time : 17:24:32.651907 Code : 200 Size : 551325 RankAtCrawl: 0.30419614055299543 FinalRank : 0.304196140552996
+https://www.youtube.com/user/celebridadElatina Time : 17:24:33.374319 Code : 200 Size : 164634 RankAtCrawl: 0.3 FinalRank : 0.3000000000000006
+https://www.youtube.com/ Time : 17:24:33.831062 Code : 200 Size : 503750 RankAtCrawl: 0.3038636363636361 FinalRank : 0.303863636363637
+https://accounts.google.com/ServiceLogin?service=youtube&hl=en&uilel=3&passive=true&continue=https://www.youtube.com/signin?app=desktop%26hl=en%26feature=sign_in_promo%26action_handle_signin=true%26next=%252F Time : 17:24:35.536124 Code : 200 Size : 69698 RankAtCrawl: 0.3062278138528136 FinalRank : 0.30622781385281445
+https://accounts.google.com/signin/usernamerecovery?continue=https://www.youtube.com/signin?app=desktop%26hl=en%26feature=sign_in_promo%26action_handle_signin=true%26next=%252F&service=youtube&hl=en Time : 17:24:35.753200 Code : 200 Size : 40101 RankAtCrawl: 0.31897052025355577 FinalRank : 0.31897052025355654
+https://support.google.com/accounts/?p=ar_other_problems_username Time : 17:24:35.940907 Code : 200 Size : 303617 RankAtCrawl: 0.37181247110776083 FinalRank : 0.3718124711077619
+https://myaccount.google.com/ Time : 17:24:36.723959 Code : 200 Size : 69239 RankAtCrawl: 0.37181247110776083 FinalRank : 0.3718124711077619
+https://accounts.google.com/signin/usernamerecovery?continue=https://myaccount.google.com/general-light&osid=1&hl=en Time : 17:24:37.206680 Code : 200 Size : 39963 RankAtCrawl: 0.36284686681386524 FinalRank : 0.3628468668138663
+https://accounts.google.com/AccountChooser?continue=https://myaccount.google.com/general-light&followup=https://myaccount.google.com/general-light&osid=1 Time : 17:24:37.375345 Code : 200 Size : 66516 RankAtCrawl: 0.36284686681386524 FinalRank : 0.3628468668138663
+https://accounts.google.com/signin/usernamerecovery?continue=https://myaccount.google.com/general-light&hl=en Time : 17:24:37.676447 Code : 200 Size : 40013 RankAtCrawl: 0.3904599183958925 FinalRank : 0.39045991839589356
+https://accounts.google.com/AccountChooser?continue=https://myaccount.google.com/general-light&followup=https://myaccount.google.com/general-light&rip=1 Time : 17:24:37.862449 Code : 200 Size : 66480 RankAtCrawl: 0.3904599183958925 FinalRank : 0.39045991839589356
+https://accounts.google.com/SignUp?continue=https://myaccount.google.com/general-light Time : 17:24:38.160232 Code : 200 Size : 360097 RankAtCrawl: 0.3628468668138653 FinalRank : 0.3628468668138663
+https://accounts.google.com/ServiceLogin?continue=https://myaccount.google.com/general-light&dsh=-3573380683534859331 Time : 17:24:38.543126 Code : 200 Size : 66394 RankAtCrawl: 0.32584569097025473 FinalRank : 0.32584569097025573
+https://accounts.google.com/AccountChooser?continue=https://myaccount.google.com/general-light&dsh=-3573380683534859331 Time : 17:24:38.759694 Code : 200 Size : 66372 RankAtCrawl: 0.4494688373247165 FinalRank : 0.4494688373247175
+https://accounts.google.com/AccountChooser?continue=https://myaccount.google.com/general-light&rip=1 Time : 17:24:39.043887 Code : 200 Size : 66452 RankAtCrawl: 0.5545485117260089 FinalRank : 0.5545485117260099
+https://support.google.com/accounts/answer/23852?hl=en Time : 17:24:39.394071 Code : 200 Size : 274905 RankAtCrawl: 0.32584569097025473 FinalRank : 0.32584569097025573
+https://support.google.com/accounts/answer/32040?hl=en Time : 17:24:40.060646 Code : 200 Size : 300124 RankAtCrawl: 0.3258456909702547 FinalRank : 0.32584569097025573
+https://support.google.com/accounts/answer/1733224?hl=en Time : 17:24:40.382528 Code : 200 Size : 291976 RankAtCrawl: 0.3258456909702546 FinalRank : 0.32584569097025573
+https://support.google.com/accounts?hl=en Time : 17:24:40.705462 Code : 200 Size : 297385 RankAtCrawl: 0.3258456909702545 FinalRank : 0.32584569097025573
+https://support.google.com/support_portal Time : 17:24:41.225469 Code : 200 Size : 299389 RankAtCrawl: 0.32491147288745237 FinalRank : 0.3249114728874534
+https://support.google.com/answer/23852?visit_id=0-636425762811386781-1935785999&hl=en&rd=3&co=GENIE.Platform=Android Time : 17:24:41.870775 Code : 200 Size : 275065 RankAtCrawl: 0.32491147288745237 FinalRank : 0.3249114728874534
+https://support.google.com/answer/23852?visit_id=0-636425762811386781-1935785999&hl=en&rd=3&co=GENIE.Platform=Desktop Time : 17:24:42.702563 Code : 200 Size : 277473 RankAtCrawl: 0.32491147288745237 FinalRank : 0.3249114728874534
+https://support.microsoft.com/product/internet-explorer Time : 17:24:43.119507 Code : 200 Size : 48477 RankAtCrawl: 0.3297349503908663 FinalRank : 0.3297349503908676
+https://support.mozilla.org/ Time : 17:24:43.714258 Code : 200 Size : 12506 RankAtCrawl: 0.3297349503908666 FinalRank : 0.3297349503908676
+https://www.apple.com/support/safari Time : 17:24:44.517469 Code : 200 Size : 34166 RankAtCrawl: 0.32973495039086653 FinalRank : 0.3297349503908676
+https://support.google.com/answer/23852?visit_id=0-636425762811386781-1935785999&hl=en&rd=3&co=GENIE.Platform=iOS Time : 17:24:44.877040 Code : 200 Size : 274959 RankAtCrawl: 0.32491147288745237 FinalRank : 0.3249114728874534
+https://support.google.com/accounts/answer/183723 Time : 17:24:45.432913 Code : 200 Size : 300091 RankAtCrawl: 0.3186836046655892 FinalRank : 0.3186836046655902
+https://myaccount.google.com/recovery/email Time : 17:24:45.940139 Code : 200 Size : 69255 RankAtCrawl: 0.32867621279314985 FinalRank : 0.32867621279315085
+https://www.youtube.com/user/googlehelp?sub_confirmation=1 Time : 17:24:46.486574 Code : 200 Size : 526150 RankAtCrawl: 0.3186836046655892 FinalRank : 0.3186836046655902
+https://www.youtube.com/new Time : 17:24:47.911935 Code : 200 Size : 11763 RankAtCrawl: 0.30843418023327906 FinalRank : 0.30843418023328006
+https://www.youtube.com/yt/about/ Time : 17:24:48.265344 Code : 200 Size : 48329 RankAtCrawl: 0.3168336316497856 FinalRank : 0.31683363164978656
+https://www.youtube.com/yt/press/ Time : 17:24:48.567034 Code : 200 Size : 62911 RankAtCrawl: 0.3168336316497856 FinalRank : 0.31683363164978656
+https://www.youtube.com/yt/ Time : 17:24:48.943934 Code : 404 RankAtCrawl: 0.31772607336278946 FinalRank : 0.31772607336279035
+https://www.youtube.com/yt/experiences/ Time : 17:24:49.084888 Code : 404 RankAtCrawl: 0.31772607336278946 FinalRank : 0.31772607336279035
+https://www.youtube.com/yt/policies/ Time : 17:24:49.219914 Code : 404 RankAtCrawl: 0.31772607336278946 FinalRank : 0.31772607336279035
+https://www.youtube.com/yt/brand-resources/ Time : 17:24:49.354537 Code : 404 RankAtCrawl: 0.31772607336278946 FinalRank : 0.31772607336279035
+https://youtube-eng.googleblog.com/ Time : 17:24:49.524986 Code : 200 Size : 208195 RankAtCrawl: 0.31772607336278885 FinalRank : 0.31772607336279035
+https://plus.google.com/+youtube Time : 17:24:50.096546 Code : 200 Size : 745231 RankAtCrawl: 0.31683363164978523 FinalRank : 0.31683363164978656
+https://myaccount.google.com/?utm_source=OGB&utm_medium=app Time : 17:24:51.163502 Code : 200 Size : 69295 RankAtCrawl: 0.3072515615554453 FinalRank : 0.30725156155544664
+https://play.google.com/?hl=en Time : 17:24:52.213938 Code : 200 Size : 559527 RankAtCrawl: 0.30725156155544536 FinalRank : 0.30725156155544664
+https://photos.google.com/?pageId=none Time : 17:24:53.930337 Code : 200 Size : 17093 RankAtCrawl: 0.30725156155544536 FinalRank : 0.30725156155544664
+https://play.google.com/store/apps/details?id=com.google.android.apps.photos&referrer=utm_source=aboutpage Time : 17:24:54.466941 Code : 200 Size : 351398 RankAtCrawl: 0.3222773045536875 FinalRank : 0.3222773045536888
+http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8 Time : 17:24:55.108626 Code : 200 Size : 100010 RankAtCrawl: 0.3222773045536875 FinalRank : 0.3222773045536888
+https://photos.google.com/login Time : 17:24:55.719718 Code : 200 Size : 69133 RankAtCrawl: 0.3222773045536875 FinalRank : 0.3222773045536888
+https://plus.google.com/+GooglePhotos/posts Time : 17:24:56.379580 Code : 200 Size : 713553 RankAtCrawl: 0.3222773045536875 FinalRank : 0.3222773045536888
+https://twitter.com/googlephotos Time : 17:24:57.573411 Code : 200 Size : 365067 RankAtCrawl: 0.32227730455368764 FinalRank : 0.3222773045536888
+https://play.google.com/intl/en-US_us/about/giftcards Time : 17:24:58.729728 Code : 200 Size : 33989 RankAtCrawl: 0.31464357088706285 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/ANDROID_WEAR Time : 17:24:59.301568 Code : 200 Size : 445124 RankAtCrawl: 0.31464357088706285 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/ART_AND_DESIGN Time : 17:25:00.630413 Code : 200 Size : 575725 RankAtCrawl: 0.31464357088706285 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/AUTO_AND_VEHICLES Time : 17:25:01.610785 Code : 200 Size : 564759 RankAtCrawl: 0.31464357088706285 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/BEAUTY Time : 17:25:02.679446 Code : 200 Size : 455456 RankAtCrawl: 0.3146435708870628 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE Time : 17:25:03.832980 Code : 200 Size : 605760 RankAtCrawl: 0.31464357088706274 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/BUSINESS Time : 17:25:05.186157 Code : 200 Size : 440738 RankAtCrawl: 0.31464357088706274 FinalRank : 0.3146435708870641
+https://play.google.com/store/apps/category/COMICS Time : 17:25:06.389578 Code : 200 Size : 571089 RankAtCrawl: 0.31464357088706274 FinalRank : 0.3146435708870641
+https://plus.google.com/+GooglePlay Time : 17:25:07.353598 Code : 200 Size : 702221 RankAtCrawl: 0.31272245775036345 FinalRank : 0.31272245775036456
+https://twitter.com/GooglePlay Time : 17:25:09.555582 Code : 200 Size : 377340 RankAtCrawl: 0.3127224577503632 FinalRank : 0.31272245775036456
+https://wallet.google.com/ Time : 17:25:10.527805 Code : 200 Size : 69386 RankAtCrawl: 0.30725156155544525 FinalRank : 0.30725156155544664
+https://docs.google.com/document/?usp=docs_alc Time : 17:25:11.319768 Code : 200 Size : 56419 RankAtCrawl: 0.3072515615554456 FinalRank : 0.30725156155544664
+https://www.blogger.com/ Time : 17:25:12.064546 Code : 200 Size : 96869 RankAtCrawl: 0.30725156155544553 FinalRank : 0.30725156155544664
+https://www.blogger.com/#maincontent Time : 17:25:12.882608 Code : 200 Size : 96869 RankAtCrawl: 0.3089109218214748 FinalRank : 0.30891092182147584
+https://www.blogger.com/go/home Time : 17:25:13.669573 Code : 200 Size : 96869 RankAtCrawl: 0.30891092182147484 FinalRank : 0.30891092182147584
+https://www.blogger.com/go/home#maincontent Time : 17:25:14.539518 Code : 200 Size : 96869 RankAtCrawl: 0.36753714177412655 FinalRank : 0.3675371417741276
+https://www.blogger.com/go/home#choose-design Time : 17:25:15.416843 Code : 200 Size : 96869 RankAtCrawl: 0.36753714177412655 FinalRank : 0.3675371417741276
+https://www.blogger.com/go/signin Time : 17:25:16.378093 Code : 200 Size : 69222 RankAtCrawl: 0.30891092182147484 FinalRank : 0.30891092182147584
+https://www.blogger.com/go/createyourblog Time : 17:25:17.160372 Code : 200 Size : 69270 RankAtCrawl: 0.30891092182147484 FinalRank : 0.30891092182147584
+https://www.blogger.com/#choose-design Time : 17:25:17.982330 Code : 200 Size : 96869 RankAtCrawl: 0.30891092182147484 FinalRank : 0.30891092182147584
+https://www.blogger.com/go/helpcenter Time : 17:25:18.959243 Code : 200 Size : 285087 RankAtCrawl: 0.30891092182147506 FinalRank : 0.30891092182147584
+https://www.blogger.com/go/helpforum Time : 17:25:20.417766 Code : 200 Size : 4957 RankAtCrawl: 0.308910921821475 FinalRank : 0.30891092182147584
+http://support.google.com/groups/bin/answer.py?answer=46601 Time : 17:25:21.994299 Code : 200 Size : 286563 RankAtCrawl: 0.31227948032256836 FinalRank : 0.31227948032256914
+https://hangouts.google.com/ Time : 17:25:23.661701 Code : 200 Size : 31788 RankAtCrawl: 0.30725156155544586 FinalRank : 0.30725156155544664
+https://keep.google.com/ Time : 17:25:24.902394 Code : 200 Size : 69095 RankAtCrawl: 0.30725156155544586 FinalRank : 0.30725156155544664
+http://support.google.com/ Time : 17:25:25.728677 Code : 200 Size : 299134 RankAtCrawl: 0.3059972851423556 FinalRank : 0.30599728514235636
+http://productforums.google.com/forum/?_escaped_fragment_=categories/apps/google-groups-for-business Time : 17:25:27.010113 Code : 200 Size : 34597 RankAtCrawl: 0.30599728514235536 FinalRank : 0.30599728514235636
+http://groups.google.com/forum Time : 17:25:28.788551 Code : 200 Size : 493 RankAtCrawl: 0.30599728514235536 FinalRank : 0.30599728514235636
+https://groups.google.com/forum/ Time : 17:25:29.566410 Code : 200 Size : 23664 RankAtCrawl: 0.4325976923710021 FinalRank : 0.43259769237100304
+http://support.google.com/groups Time : 17:25:30.553924 Code : 200 Size : 278504 RankAtCrawl: 0.3059972851423553 FinalRank : 0.30599728514235636
+http://support.google.com/groups/answer/2464926?hl=en%26ref_topic=2458761 Time : 17:25:31.860358 Code : 200 Size : 292934 RankAtCrawl: 0.3059972851423553 FinalRank : 0.30599728514235636
+https://groups.google.com/ Time : 17:25:33.130551 Code : 200 Size : 23664 RankAtCrawl: 0.30736653846505513 FinalRank : 0.3073665384650563
+http://support.google.com/groups/?hl=en#topic%3D2458761 Time : 17:25:34.548550 Code : 200 Size : 278556 RankAtCrawl: 0.30736653846505513 FinalRank : 0.3073665384650563
+http://support.google.com/groups/answer/1067205?hl=en%26ref_topic=2458614 Time : 17:25:35.640652 Code : 200 Size : 290985 RankAtCrawl: 0.30599728514235525 FinalRank : 0.30599728514235636
+http://support.google.com/groups/answer/1067205?hl=en%26ref_topic=2458614#join Time : 17:25:36.768166 Code : 200 Size : 290983 RankAtCrawl: 0.30662988461854956 FinalRank : 0.30662988461855073
+http://support.google.com/accounts/answer/176347?hl=en Time : 17:25:38.269037 Code : 200 Size : 302497 RankAtCrawl: 0.30662988461854945 FinalRank : 0.30662988461855073
+http://support.google.com/groups/?hl=en#topic%3D2458613 Time : 17:25:39.333603 Code : 200 Size : 278563 RankAtCrawl: 0.3066298846185494 FinalRank : 0.30662988461855073
+http://support.google.com/groups/answer/1046523?hl=en%26ref_topic=2458614 Time : 17:25:40.512379 Code : 200 Size : 300000 RankAtCrawl: 0.305997285142355 FinalRank : 0.30599728514235636
+http://itunes.apple.com/app/apple-store/id962194608?pt=9008&ct=landing&mt=8#ac-gn-menustate Time : 17:25:41.592329 Code : 200 Size : 100010 RankAtCrawl: 0.30563214264886984 FinalRank : 0.3056321426488712
+http://www.apple.com/ Time : 17:25:42.456334 Code : 200 Size : 52778 RankAtCrawl: 0.30563214264886984 FinalRank : 0.3056321426488712
+http://www.apple.com/us/shop/goto/bag Time : 17:25:43.255769 Code : 200 Size : 86784 RankAtCrawl: 0.3056321426488696 FinalRank : 0.3056321426488712
+http://www.apple.com/mac/ Time : 17:25:44.312492 Code : 200 Size : 74637 RankAtCrawl: 0.3056321426488696 FinalRank : 0.3056321426488712
+http://www.apple.com/ipad/ Time : 17:25:45.203451 Code : 200 Size : 52040 RankAtCrawl: 0.30563214264886945 FinalRank : 0.3056321426488712
+http://www.apple.com/ipad/#ac-gn-menustate Time : 17:25:46.181547 Code : 200 Size : 52040 RankAtCrawl: 0.3062993962500722 FinalRank : 0.30629939625007396
+http://www.apple.com/ipad-pro/ Time : 17:25:47.123946 Code : 200 Size : 171973 RankAtCrawl: 0.3062993962500721 FinalRank : 0.30629939625007396
+http://www.apple.com/ipad-9.7/ Time : 17:25:48.269914 Code : 200 Size : 89043 RankAtCrawl: 0.30629939625007185 FinalRank : 0.30629939625007396
+http://www.apple.com/ipad-9.7/#ac-gn-menustate Time : 17:25:49.311780 Code : 200 Size : 89043 RankAtCrawl: 0.3063264041339301 FinalRank : 0.30632640413393214
+http://www.apple.com/ipad-9.7/#ac-ln-menustate Time : 17:25:50.369385 Code : 200 Size : 89043 RankAtCrawl: 0.3063264041339301 FinalRank : 0.30632640413393214
+http://www.apple.com/ipad-9.7/ios/ Time : 17:25:51.439484 Code : 200 Size : 81131 RankAtCrawl: 0.30632640413393 FinalRank : 0.30632640413393214
+https://itunes.apple.com/story/id1276358177 Time : 17:25:52.914112 Code : 200 Size : 84513 RankAtCrawl: 0.30632640413392986 FinalRank : 0.30632640413393214
+http://www.appstore.com/ Time : 17:25:55.742776 Code : 200 Size : 5278 RankAtCrawl: 0.30629939625007163 FinalRank : 0.30629939625007396
+https://support.apple.com/ Time : 17:25:56.999862 Code : 200 Size : 62681 RankAtCrawl: 0.30563214264886884 FinalRank : 0.3056321426488712
+https://itunes.apple.com/us/developer/google-inc/id281956209 Time : 17:25:58.171732 Code : 200 Size : 127906 RankAtCrawl: 0.3056321426488689 FinalRank : 0.3056321426488712
+https://itunes.apple.com/us/developer/google-inc/id281956209#ac-gn-menustate Time : 17:25:59.428475 Code : 200 Size : 127906 RankAtCrawl: 0.3101759477885783 FinalRank : 0.3101759477885806
+https://itunes.apple.com/us/app/youtube/id544007664?mt=8 Time : 17:26:00.652094 Code : 200 Size : 91677 RankAtCrawl: 0.31017594778857827 FinalRank : 0.3101759477885806
+https://itunes.apple.com/us/app/google-maps-gps-navigation/id585027354?mt=8 Time : 17:26:02.294561 Code : 200 Size : 96339 RankAtCrawl: 0.3101759477885782 FinalRank : 0.3101759477885806
+https://itunes.apple.com/us/app/google/id284815942?mt=8 Time : 17:26:03.604099 Code : 200 Size : 97707 RankAtCrawl: 0.31017594778857815 FinalRank : 0.3101759477885806
+https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8 Time : 17:26:04.897242 Code : 200 Size : 98787 RankAtCrawl: 0.31017594778857815 FinalRank : 0.3101759477885806
+https://itunes.apple.com/us/app/google-chrome/id535886823?mt=8 Time : 17:26:06.432943 Code : 200 Size : 97144 RankAtCrawl: 0.31017594778857815 FinalRank : 0.3101759477885806
+https://itunes.apple.com/us/app/google-chrome/id535886823?mt=8#ac-gn-menustate Time : 17:26:07.891039 Code : 200 Size : 97144 RankAtCrawl: 0.3136149555620274 FinalRank : 0.3136149555620299
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewEula?id=535886823 Time : 17:26:09.187742 Code : 200 Size : 5261 RankAtCrawl: 0.3136149555620274 FinalRank : 0.3136149555620299
+http://tw.appstore.com/M7e Time : 17:26:10.680346 Code : 200 Size : 369560 RankAtCrawl: 0.30972496825859064 FinalRank : 0.30972496825859297
+http://tw.itunes.com/H8a Time : 17:26:12.584059 Code : 200 Size : 377297 RankAtCrawl: 0.30972496825859086 FinalRank : 0.30972496825859297
+https://goo.gl/al7iNs Time : 17:26:14.678671 Code : 200 Size : 306712 RankAtCrawl: 0.30972496825859097 FinalRank : 0.30972496825859297
+https://plus.google.com/+GooglePhotos/discover Time : 17:26:16.771973 Code : 200 Size : 713614 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://plus.google.com/+GooglePhotos/ Time : 17:26:19.258829 Code : 200 Size : 715082 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://plus.google.com/+GooglePhotos/photos/108972862430615180924/albums/profile/6223103519328701122 Time : 17:26:21.684596 Code : 404 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://plus.google.com/+GooglePhotos/collection/A32mh Time : 17:26:21.840065 Code : 404 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://plus.google.com/+GooglePhotos/collection/4Abmh Time : 17:26:21.980322 Code : 404 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://plus.google.com/+GooglePhotos/collection/YpDr1 Time : 17:26:22.135044 Code : 404 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://plus.google.com/+GooglePhotos/collection/8nxmh Time : 17:26:22.316343 Code : 404 RankAtCrawl: 0.3056321426488692 FinalRank : 0.3056321426488712
+https://www.blog.google/products/photos/give-and-get-photos-you-care-about/ Time : 17:26:22.956945 Code : 200 Size : 82749 RankAtCrawl: 0.30563214264886907 FinalRank : 0.3056321426488712
+https://goo.gl/vypXsA Time : 17:26:24.813534 Code : 200 Size : 78866 RankAtCrawl: 0.30563214264886895 FinalRank : 0.3056321426488712
+https://goo.gl/vypXsA#jump-content Time : 17:26:26.555017 Code : 200 Size : 78866 RankAtCrawl: 0.30575162266310885 FinalRank : 0.30575162266311107
+https://goo.gl/products/ Time : 17:26:28.384779 Code : 404 RankAtCrawl: 0.30575162266310885 FinalRank : 0.30575162266311107
+https://goo.gl/topics/ Time : 17:26:28.623660 Code : 404 RankAtCrawl: 0.30575162266310885 FinalRank : 0.30575162266311107
+https://goo.gl/about/ Time : 17:26:28.819050 Code : 404 RankAtCrawl: 0.30575162266310885 FinalRank : 0.30575162266311107
+https://goo.gl/press/ Time : 17:26:30.127462 Code : Timeout RankAtCrawl:   FinalRank : 0.30575162266311107
+https://goo.gl/rss/ Time : 17:26:33.706512 Code : 404 RankAtCrawl: 0.30575162266310885 FinalRank : 0.30575162266311107
+https://twitter.com/intent/tweet?text=Introducing%20Backup%20and%20Sync%20for%20Google%20Photos%20and%20Google%20Drive%20@google&url=https://www.blog.google/products/photos/introducing-backup-and-sync-google-photos-and-google-drive/ Time : 17:26:40.494764 Code : 200 Size : 5735 RankAtCrawl: 0.30575162266310885 FinalRank : 0.30575162266311107
+https://twitter.com/home Time : 17:26:43.154827 Code : 200 Size : 121112 RankAtCrawl: 0.33309721981590923 FinalRank : 0.33309721981591156
+https://twitter.com/signup?context=webintent Time : 17:26:45.091221 Code : 200 Size : 138916 RankAtCrawl: 0.33309721981590934 FinalRank : 0.33309721981591156
+https://twitter.com/account/begin_password_reset Time : 17:26:47.059593 Code : 200 Size : 11980 RankAtCrawl: 0.3330972198159097 FinalRank : 0.33309721981591156
+https://support.twitter.com/groups/31-twitter-basics/topics/104-welcome-to-twitter-support/articles/215585-twitter-101-how-should-i-get-started-using-twitter Time : 17:26:49.127426 Code : 200 Size : 52329 RankAtCrawl: 0.3330972198159096 FinalRank : 0.33309721981591156
+https://support.twitter.com/ Time : 17:26:51.487987 Code : 200 Size : 27709 RankAtCrawl: 0.31945407960543926 FinalRank : 0.31945407960544114
+https://twitter.com/login?redirect_after_login=https://support.twitter.com/ Time : 17:26:53.659806 Code : 200 Size : 122629 RankAtCrawl: 0.3240059946107695 FinalRank : 0.32400599461077134
+https://support.twitter.com/articles/14606 Time : 17:26:55.951581 Code : 200 Size : 73452 RankAtCrawl: 0.3240059946107695 FinalRank : 0.32400599461077134
+https://twitter.com/login?redirect_after_login=https://support.twitter.com/articles/14606 Time : 17:26:58.530371 Code : 200 Size : 123471 RankAtCrawl: 0.44790509541915385 FinalRank : 0.44790509541915574
+https://twitter.com/login?redirect_after_login=https://support.twitter.com/articles/14606#timeline Time : 17:27:00.727430 Code : 200 Size : 123471 RankAtCrawl: 0.4266096655531396 FinalRank : 0.4266096655531415
+https://twitter.com/login?redirect_after_login=https://support.twitter.com/articles/14606#supported_languages Time : 17:27:02.928460 Code : 200 Size : 123471 RankAtCrawl: 0.4266096655531396 FinalRank : 0.4266096655531415
+https://support.twitter.com/articles/49309 Time : 17:27:06.079354 Code : 200 Size : 46440 RankAtCrawl: 0.3240059946107695 FinalRank : 0.32400599461077134
+https://support.twitter.com/articles/101002 Time : 17:27:08.779976 Code : 200 Size : 54887 RankAtCrawl: 0.3240059946107695 FinalRank : 0.32400599461077134
+https://support.twitter.com/articles/14663 Time : 17:27:11.427323 Code : 200 Size : 42421 RankAtCrawl: 0.3240059946107695 FinalRank : 0.32400599461077134
+https://support.twitter.com/articles/20170782 Time : 17:27:13.934266 Code : 200 Size : 37696 RankAtCrawl: 0.3493016984730505 FinalRank : 0.3493016984730523
+https://support.twitter.com/articles/20170804 Time : 17:27:16.624039 Code : 200 Size : 37727 RankAtCrawl: 0.3493016984730505 FinalRank : 0.3493016984730523
+https://support.twitter.com/articles/20172128 Time : 17:27:19.411351 Code : 200 Size : 60605 RankAtCrawl: 0.3240059946107695 FinalRank : 0.32400599461077134
+https://support.twitter.com/categories/281 Time : 17:27:23.353799 Code : 200 Size : 43784 RankAtCrawl: 0.3194540796054393 FinalRank : 0.31945407960544114
+https://photos.google.com/apps Time : 17:27:26.672509 Code : 200 Size : 166545 RankAtCrawl: 0.3057516226631092 FinalRank : 0.30575162266311107
+https://photos.google.com/ Time : 17:27:29.363602 Code : 200 Size : 17093 RankAtCrawl: 0.31470987547373697 FinalRank : 0.3147098754737388
+https://photos.google.com/sharing Time : 17:27:32.946526 Code : 200 Size : 69217 RankAtCrawl: 0.31470987547373697 FinalRank : 0.3147098754737388
+https://photos.google.com/photobooks Time : 17:27:36.655933 Code : 200 Size : 69231 RankAtCrawl: 0.31470987547373697 FinalRank : 0.3147098754737388
+https://gsuiteupdates.googleblog.com/2017/06/backup-and-sync-from-google-available.html Time : 17:27:39.923287 Code : 200 Size : 129963 RankAtCrawl: 0.3057516226631092 FinalRank : 0.30575162266311107
+https://goo.gl/products/photos/ Time : 17:27:42.356876 Code : 404 RankAtCrawl: 0.3057516226631092 FinalRank : 0.30575162266311107
+https://goo.gl/products/drive/ Time : 17:27:42.595383 Code : 404 RankAtCrawl: 0.3057516226631092 FinalRank : 0.30575162266311107
+https://photos.google.com/u/0/photobooks Time : 17:27:42.825639 Code : 200 Size : 69323 RankAtCrawl: 0.3056321426488694 FinalRank : 0.3056321426488712
+http://myaccount.google.com/ Time : 17:27:46.233214 Code : 200 Size : 69231 RankAtCrawl: 0.30554730841357247 FinalRank : 0.30554730841357425
+https://www.apple.com/us/search Time : 17:27:48.968326 Code : 200 Size : 137639 RankAtCrawl: 0.30553656014640895 FinalRank : 0.3055365601464107
+https://www.apple.com/ios/app-store/ Time : 17:27:51.383095 Code : 200 Size : 52795 RankAtCrawl: 0.3055365601464091 FinalRank : 0.3055365601464107
+https://www.apple.com/ios/app-store/#ac-gn-menustate Time : 17:27:54.428432 Code : 200 Size : 52795 RankAtCrawl: 0.3062955274344966 FinalRank : 0.30629552743449817
+https://www.apple.com/ios/app-store/#gallery-slide-item-1 Time : 17:27:57.465414 Code : 200 Size : 52795 RankAtCrawl: 0.3062955274344966 FinalRank : 0.30629552743449817
+https://www.apple.com/ios/app-store/#gallery-slide-item-2 Time : 17:27:59.783568 Code : 200 Size : 52795 RankAtCrawl: 0.3062955274344966 FinalRank : 0.30629552743449817
+https://www.apple.com/ios/app-store/#gallery-slide-item-3 Time : 17:28:02.030216 Code : 200 Size : 52795 RankAtCrawl: 0.3062955274344966 FinalRank : 0.30629552743449817
+https://www.apple.com/ios/ios-11/ Time : 17:28:04.300847 Code : 200 Size : 98529 RankAtCrawl: 0.3062955274344963 FinalRank : 0.30629552743449817
+https://support.apple.com/ios/update?cid=appleretail_appstore_ios_update_psp Time : 17:28:06.705229 Code : 200 Size : 36634 RankAtCrawl: 0.3062955274344962 FinalRank : 0.30629552743449817
+https://support.apple.com/ios/update?cid=appleretail_appstore_ios_update_psp#ac-gn-menustate Time : 17:28:09.070040 Code : 200 Size : 36634 RankAtCrawl: 0.3102193229476389 FinalRank : 0.3102193229476408
+https://support.apple.com/ios/update?cid=appleretail_appstore_ios_update_psp#ac-ln-menustate Time : 17:28:11.596172 Code : 200 Size : 36634 RankAtCrawl: 0.3102193229476389 FinalRank : 0.3102193229476408
+https://support.apple.com/en-us/HT203977 Time : 17:28:14.619958 Code : 200 Size : 42660 RankAtCrawl: 0.310219322947639 FinalRank : 0.3102193229476408
+https://support.apple.com/en-us/HT204204 Time : 17:28:18.213982 Code : 200 Size : 40452 RankAtCrawl: 0.3102193229476392 FinalRank : 0.3102193229476408
+https://support.apple.com/en-us/HT204204#ac-gn-menustate Time : 17:28:21.921289 Code : 200 Size : 40452 RankAtCrawl: 0.31047587880811395 FinalRank : 0.31047587880811556
+http://support.apple.com/kb/HT203977 Time : 17:28:25.589539 Code : 200 Size : 42660 RankAtCrawl: 0.310475878808114 FinalRank : 0.31047587880811556
+http://support.apple.com/kb/HT203977#ac-gn-menustate Time : 17:28:28.306741 Code : 200 Size : 42660 RankAtCrawl: 0.3341011242467235 FinalRank : 0.334101124246725
+http://support.apple.com/kb/HT203977#icloud Time : 17:28:30.930193 Code : 200 Size : 42660 RankAtCrawl: 0.3341011242467235 FinalRank : 0.334101124246725
+http://support.apple.com/kb/HT203977#itunes Time : 17:28:33.473332 Code : 200 Size : 42660 RankAtCrawl: 0.3341011242467235 FinalRank : 0.334101124246725
+http://support.apple.com/HT203977/localeselector Time : 17:28:35.997033 Code : 200 Size : 248163 RankAtCrawl: 0.3341011242467232 FinalRank : 0.334101124246725
+https://support.apple.com/kb/HT202639 Time : 17:28:39.009004 Code : 200 Size : 41496 RankAtCrawl: 0.3104758788081138 FinalRank : 0.31047587880811556
+https://support.apple.com/kb/HT202639#ac-gn-menustate Time : 17:28:41.611991 Code : 200 Size : 41496 RankAtCrawl: 0.3151560552207653 FinalRank : 0.315156055220767
+https://support.apple.com/kb/HT202639#wifi Time : 17:28:44.689028 Code : 200 Size : 41496 RankAtCrawl: 0.3151560552207653 FinalRank : 0.315156055220767
+http://support.apple.com/kb/HT204070 Time : 17:28:47.977637 Code : 200 Size : 40811 RankAtCrawl: 0.31515605522076523 FinalRank : 0.315156055220767
+http://support.apple.com/kb/HT204070#ac-gn-menustate Time : 17:28:50.618297 Code : 200 Size : 40811 RankAtCrawl: 0.3280765293875291 FinalRank : 0.3280765293875309
+http://support.apple.com/kb/ht3867 Time : 17:28:53.252032 Code : 404 RankAtCrawl: 0.3280765293875291 FinalRank : 0.3280765293875309
+http://support.apple.com/kb/HT204070#correct-password Time : 17:28:53.732021 Code : 200 Size : 40811 RankAtCrawl: 0.3280765293875291 FinalRank : 0.3280765293875309
+https://discussions.apple.com/article/HT204070?filter=qa Time : 17:28:57.446532 Code : 200 Size : 236683 RankAtCrawl: 0.32807652938752924 FinalRank : 0.3280765293875309
+http://support.apple.com/HT204070/localeselector Time : 17:29:01.282808 Code : 200 Size : 248161 RankAtCrawl: 0.32807652938752974 FinalRank : 0.3280765293875309
+https://discussions.apple.com/article/HT202639?filter=qa Time : 17:29:04.732643 Code : 200 Size : 265556 RankAtCrawl: 0.3151560552207659 FinalRank : 0.315156055220767
+https://discussions.apple.com/article/HT202639?filter=qa#ac-gn-menustate Time : 17:29:08.522581 Code : 200 Size : 265556 RankAtCrawl: 0.3140382646937646 FinalRank : 0.3140382646937657
+https://discussions.apple.com/article/HT202639?start=30&filter=qa Time : 17:29:12.158941 Code : Timeout RankAtCrawl:   FinalRank : 0.3140382646937657
+https://discussions.apple.com/thread/7918650 Time : 17:29:14.372949 Code : 200 Size : 374355 RankAtCrawl: 0.3140382646937646 FinalRank : 0.3140382646937657
+https://discussions.apple.com/people/MichelPM Time : 17:29:18.796393 Code : 200 Size : 230021 RankAtCrawl: 0.3140382646937646 FinalRank : 0.3140382646937657
+https://discussions.apple.com/people/MichelPM#ac-gn-menustate Time : 17:29:22.424242 Code : 200 Size : 230021 RankAtCrawl: 0.3464775083298996 FinalRank : 0.34647750832990076
+https://discussions.apple.com/people/MichelPM/profile Time : 17:29:25.429944 Code : 200 Size : 229925 RankAtCrawl: 0.34647750832989954 FinalRank : 0.34647750832990076
+https://discussions.apple.com/people/MichelPM/profile#ac-gn-menustate Time : 17:29:29.002179 Code : 200 Size : 229925 RankAtCrawl: 0.46700588208041455 FinalRank : 0.4670058820804157
+https://discussions.apple.com/docs/DOC-9254 Time : 17:29:31.907678 Code : 200 Size : 257849 RankAtCrawl: 0.3464775083298997 FinalRank : 0.34647750832990076
+https://getsupport.apple.com/ Time : 17:29:34.955229 Code : 200 Size : 5489 RankAtCrawl: 0.30688022954451777 FinalRank : 0.3068802295445188
+https://www.apple.com/ios/ Time : 17:29:38.303717 Code : 200 Size : 98529 RankAtCrawl: 0.3062955274344972 FinalRank : 0.30629552743449817
+https://www.apple.com/ios/app-store/#ac-gf-directory-column-section-state-products Time : 17:29:41.357846 Code : 200 Size : 52795 RankAtCrawl: 0.3062955274344971 FinalRank : 0.30629552743449817
+https://developer.apple.com/ios/ Time : 17:29:44.640361 Code : 200 Size : 24518 RankAtCrawl: 0.44492286481118226 FinalRank : 0.4449228648111829
+https://developer.apple.com/ios/#ac-gn-menustate Time : 17:29:48.392545 Code : 200 Size : 24518 RankAtCrawl: 0.3071624124311287 FinalRank : 0.3071624124311293
+https://developer.apple.com/ Time : 17:29:52.292160 Code : 200 Size : 17909 RankAtCrawl: 0.30716241243112885 FinalRank : 0.3071624124311293
+https://developer.apple.com/#ac-gn-menustate Time : 17:29:56.233590 Code : 200 Size : 17909 RankAtCrawl: 0.31027600388972776 FinalRank : 0.31027600388972826
+https://developer.apple.com/hero-gallery-item-iphone Time : 17:29:59.993533 Code : 404 RankAtCrawl: 0.31027600388972776 FinalRank : 0.31027600388972826
+https://developer.apple.com/#hero-gallery-item-wwdc17 Time : 17:30:02.082411 Code : 200 Size : 17909 RankAtCrawl: 0.31027600388972776 FinalRank : 0.31027600388972826
+https://developer.apple.com/#hero-gallery-item-discover Time : 17:30:05.947688 Code : 403 RankAtCrawl: 0.31027600388972776 FinalRank : 0.31027600388972826
+https://developer.apple.com/#hero-gallery-item-insights Time : 17:30:06.783969 Code : 200 Size : 17909 RankAtCrawl: 0.31027600388972776 FinalRank : 0.31027600388972826
+https://forums.developer.apple.com/ Time : 17:30:12.407953 Code : 200 Size : 49511 RankAtCrawl: 0.307162412431129 FinalRank : 0.3071624124311293
+http://developer.apple.com/ Time : 17:30:16.705336 Code : 200 Size : 17909 RankAtCrawl: 0.30636133574126057 FinalRank : 0.30636133574126057
+http://developer.apple.com/resources/ Time : 17:30:20.882945 Code : 200 Size : 24125 RankAtCrawl: 0.30636133574126073 FinalRank : 0.30636133574126057
+http://developer.apple.com/support/ Time : 17:30:25.583510 Code : 200 Size : 17091 RankAtCrawl: 0.3063613357412607 FinalRank : 0.30636133574126057
+http://developer.apple.com/support/#localnav-menustate Time : 17:30:30.493635 Code : 200 Size : 17091 RankAtCrawl: 0.31898673362572516 FinalRank : 0.31898673362572505
+http://developer.apple.com/programs/ Time : 17:30:34.566170 Code : 403 RankAtCrawl: 0.39716743115791797 FinalRank : 0.39716743115791786
+http://developer.apple.com/support/#ac-gn-menustate Time : 17:30:34.918622 Code : 200 Size : 17091 RankAtCrawl: 0.390806095416658 FinalRank : 0.3908060954166579
+https://forums.developer.apple.com/welcome Time : 17:30:38.882699 Code : 200 Size : 49511 RankAtCrawl: 0.3063613357412607 FinalRank : 0.30636133574126057
+https://forums.developer.apple.com/activity Time : 17:30:42.817998 Code : 200 Size : 200182 RankAtCrawl: 0.30636133574126057 FinalRank : 0.30636133574126057
+
+No. of Files : 217
+Total Size : 31.678015 MB
+Total No. of 404 errors : 19
+Total Time for crawling : 6.507195138931275 minutes
